@@ -1,0 +1,9 @@
+k=[list("|\/|"),
+   list("|__|")]
+num_rows=50
+num_colms=100
+hut_hit_points=15
+townhall_hitpts=20
+canon_hitpts=10
+wall_hitpts=2
+balloon_health=10
