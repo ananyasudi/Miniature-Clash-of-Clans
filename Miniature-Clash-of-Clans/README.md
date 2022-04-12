@@ -12,10 +12,15 @@ example: hut class is inherited from building class, king is child class of pers
 
 -->each of classes have different methods and constructors
 for example:
+
     def __init__(self):
+    
         self.hit_pts=1
+        
         self.damage=2
+        
         self.health=30
+        
     this is constructor for person's class
 
 ### Encapsulation:
