@@ -28,15 +28,24 @@ it is about having different interfaces for same function. for example if we wan
 
 ### Execution
 run python3 game.py
+
 enter 'K' for choosing king and 'Q' for choosing queen
 
 use -A for moving king to left
+
     -D -->move king to right
+    
     -S -->move king down
+    
     -W --> move king up
+    
     spacebar -->to attack huts/townhalls
+    
     1,2,3--> create barbarian
+    
     4,5,6---> creates balloons
+    
     7,8,9-->creates archers
+    
     -Q-->quit game
 
